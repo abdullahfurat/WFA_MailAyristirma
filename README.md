@@ -1,5 +1,5 @@
 # Mail Ayristirma
-[![N|Solid](https://www.bilgeadam.com/akademi/SiteAssets/BilgeAdam/Images/LogoAkademi.png)](https://www.bilgeadam.com/akademi/SiteAssets/BilgeAdam/Images/LogoAkademi.png) 
+[![N|Solid](https://www.bilgeadam.com/akademi/SiteAssets/BilgeAdam/Images/LogoAkademi.png)](https://www.bilgeadam.com/akademi/) 
 
 * Kullanıcı, TextBox alanına mail adresini girecek, kullanıcı aynı anda birden fazla mail adresi girebilir.
 * Kullanıcı, birden fazla mail adresini izin verilen karakterle ayırabilmeli ( ; )
