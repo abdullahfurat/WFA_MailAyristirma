@@ -1,7 +1,7 @@
 # MailAyristirma
-[![N|Solid](https://pbs.twimg.com/profile_images/794178207708758016/QRRFL0vi_100x100.jpg)](https://pbs.twimg.com/profile_images/794178207708758016/QRRFL0vi_100x100.jpg)
+[![N|Solid](https://pbs.twimg.com/profile_images/794178207708758016/QRRFL0vi_reasonably_small.jpg)](https://pbs.twimg.com/profile_images/794178207708758016/QRRFL0vi_reasonably_small.jpg)
 
-[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
+[![Build Status](https://pbs.twimg.com/profile_images/794178207708758016/QRRFL0vi_reasonably_small.jpg)](https://pbs.twimg.com/profile_images/794178207708758016/QRRFL0vi_reasonably_small.jpg)
 
 1) Kullanıcı, TextBox alanına mail adresini girecek, kullanıcı aynı anda birden fazla mail adresi girebilir.
 2) Kullanıcı, birden fazla mail adresini izin verilen karakterle ayırabilmeli (;)
