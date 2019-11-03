@@ -1,5 +1,5 @@
 # MailAyristirma
-[![N|Solid](https://pbs.twimg.com/profile_images/794178207708758016/QRRFL0vi_400x400.jpg)](https://pbs.twimg.com/profile_images/794178207708758016/QRRFL0vi_400x400.jpg)
+[![N|Solid](https://pbs.twimg.com/profile_images/794178207708758016/QRRFL0vi_100x100.jpg)](https://pbs.twimg.com/profile_images/794178207708758016/QRRFL0vi_100x100.jpg)
 
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
