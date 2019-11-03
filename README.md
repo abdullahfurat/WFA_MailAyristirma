@@ -1,4 +1,4 @@
-# MailAyristirma
+# Mail Ayristirma
 [![N|Solid](https://pbs.twimg.com/profile_images/794178207708758016/QRRFL0vi_reasonably_small.jpg)](https://pbs.twimg.com/profile_images/794178207708758016/QRRFL0vi_reasonably_small.jpg) 
 
 * Kullanıcı, TextBox alanına mail adresini girecek, kullanıcı aynı anda birden fazla mail adresi girebilir.
